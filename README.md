@@ -1,4 +1,5 @@
 HR Analytics Dashboard (Excel)
+
 Overview
 
 This project is my first interactive HR Analytics Dashboard, created after completing the ALX Data Analytics Program. The goal of this analysis was to explore workforce patterns, understand employee attrition, and identify the key factors influencing turnover within the organization.
